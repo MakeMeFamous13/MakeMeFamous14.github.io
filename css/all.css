@@ -348,7 +348,7 @@ textarea {
 }
 
 input[type="submit"] {
-	
+	outline: none;
 	color: #fff;
 	background: #121112;
 }
