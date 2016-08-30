@@ -1,0 +1,16 @@
+@media screen and (min-width:1700px) {
+	body {
+		/*font-size: 1.2em;
+		line-height: 1.2em;*/
+	}
+	.project-box {
+		padding: 3.33% 4%;
+	}
+
+}
+/*@media screen and (min-height: 900px) {
+	.project-box {
+		padding: 30px 4%;
+	}
+
+}*/
